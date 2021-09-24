@@ -1,1 +1,0 @@
-Welcome to Helpful Models. I'm [[Shaun Merritt]], a self taught engineer that's never done learning.
